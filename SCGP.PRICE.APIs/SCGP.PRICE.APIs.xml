@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SCGP.PRICE.APIs</name>
+    </assembly>
+    <members>
+        <member name="M:SCGP.PRICE.APIs.HttpCustomHeaders.#ctor">
+            <summary>
+            Instance
+            </summary>
+        </member>
+    </members>
+</doc>
